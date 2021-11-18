@@ -34,7 +34,7 @@ In the following line of code this will be the line you will use to present, pus
 pod install
 ```
 - To understand it more go to [XCoordinator][XCoordinator] offical repo in Github and Check this [Article][Article] too 👋
-- 
+
 [XCoordinator]: https://github.com/quickbirdstudios/XCoordinator
 [Article]: https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0/chapters/23-coordinator-pattern
 [contact]: https://www.linkedin.com/in/ali-fayed-8682aa1a6/
