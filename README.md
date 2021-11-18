@@ -1,5 +1,5 @@
 # Cordinator-Pattern-Sample
-### Hi there, ***This an Example and base for the coordinator design pattern using the [XCoordinator][XCoordinator] pod *** 👋
+### This an Example and base for the coordinator design pattern using the [XCoordinator][XCoordinator] pod 👋
 
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 
