@@ -20,7 +20,7 @@ class Tab2Coordinator: NavigationCoordinator<SecondTabRoute> {
         case .secondTab:
             let viewController = SecondViewController.instaintiate(on: .main)
             viewController.navigationItem.title = "SecondTab"
-            viewController.router = unownedRouter
+            viewController.viewModel.router = unownedRouter
             return .push(viewController)
         case .navigateView(let text, let color):
             let viewController = SecondPassedDataViewController.instaintiate(on: .passed)

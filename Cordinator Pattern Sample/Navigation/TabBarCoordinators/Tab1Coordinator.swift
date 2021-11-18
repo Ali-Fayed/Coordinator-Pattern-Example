@@ -21,7 +21,7 @@ class Tab1Coordinator: NavigationCoordinator<FirstTabRoute> {
         case .firstTab:
             let viewController = FirstViewController.instaintiate(on: .main)
             viewController.navigationItem.title = "FirstTab"
-            viewController.router = unownedRouter
+            viewController.viewModel.router = unownedRouter
             return .push(viewController)
         case .navigateView(let text, let color):
             let viewController = FirstPassedDataViewController.instaintiate(on: .passed)

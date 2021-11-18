@@ -19,21 +19,17 @@
 		EAF2F51E2745CA330023B312 /* Cordinator_Pattern_SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F51D2745CA330023B312 /* Cordinator_Pattern_SampleUITests.swift */; };
 		EAF2F5202745CA330023B312 /* Cordinator_Pattern_SampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F51F2745CA330023B312 /* Cordinator_Pattern_SampleUITestsLaunchTests.swift */; };
 		EAF2F5342745CB410023B312 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5332745CB410023B312 /* SecondViewController.swift */; };
-		EAF2F5362745CB4A0023B312 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5352745CB4A0023B312 /* ThirdViewController.swift */; };
-		EAF2F5382745CB550023B312 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5372745CB550023B312 /* FourthViewController.swift */; };
 		EAF2F53A2745CB840023B312 /* TabBarCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5392745CB840023B312 /* TabBarCoordinator.swift */; };
 		EAF2F53C2745CB9D0023B312 /* Tab1Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F53B2745CB9D0023B312 /* Tab1Coordinator.swift */; };
 		EAF2F53E2745CBA90023B312 /* Tab2Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F53D2745CBA90023B312 /* Tab2Coordinator.swift */; };
-		EAF2F5402745CBB50023B312 /* Tab3Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F53F2745CBB50023B312 /* Tab3Coordinator.swift */; };
-		EAF2F5422745CBC00023B312 /* Tab4Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5412745CBC00023B312 /* Tab4Coordinator.swift */; };
 		EAF2F5442745CDB20023B312 /* Storyboard+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5432745CDB20023B312 /* Storyboard+Ext.swift */; };
 		EAF2F5462745CDCD0023B312 /* AppStoryboards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5452745CDCD0023B312 /* AppStoryboards.swift */; };
 		EAF2F54E2745D1B20023B312 /* FirstPassedDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F54D2745D1B20023B312 /* FirstPassedDataViewController.swift */; };
 		EAF2F5502745D1C30023B312 /* SecondPassedDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F54F2745D1C30023B312 /* SecondPassedDataViewController.swift */; };
-		EAF2F5522745D1D80023B312 /* ThirdPassedDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5512745D1D80023B312 /* ThirdPassedDataViewController.swift */; };
-		EAF2F5542745D1F30023B312 /* FourthPassedDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5532745D1F30023B312 /* FourthPassedDataViewController.swift */; };
 		EAF2F5562745D2A20023B312 /* Passed.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAF2F5552745D2A20023B312 /* Passed.storyboard */; };
 		EAF2F5582745DD600023B312 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F5572745DD600023B312 /* AppCoordinator.swift */; };
+		EAF2F55C274669B20023B312 /* FirstViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F55B274669B20023B312 /* FirstViewModel.swift */; };
+		EAF2F55E274669EC0023B312 /* SecondViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF2F55D274669EC0023B312 /* SecondViewModel.swift */; };
 		F65FD832F21028CCA64A3B11 /* Pods_Cordinator_Pattern_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA6DAD2C3994616BEB4A587 /* Pods_Cordinator_Pattern_Sample.framework */; };
 /* End PBXBuildFile section */
 
@@ -76,21 +72,17 @@
 		EAF2F51D2745CA330023B312 /* Cordinator_Pattern_SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cordinator_Pattern_SampleUITests.swift; sourceTree = "<group>"; };
 		EAF2F51F2745CA330023B312 /* Cordinator_Pattern_SampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cordinator_Pattern_SampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		EAF2F5332745CB410023B312 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		EAF2F5352745CB4A0023B312 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
-		EAF2F5372745CB550023B312 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		EAF2F5392745CB840023B312 /* TabBarCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarCoordinator.swift; sourceTree = "<group>"; };
 		EAF2F53B2745CB9D0023B312 /* Tab1Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab1Coordinator.swift; sourceTree = "<group>"; };
 		EAF2F53D2745CBA90023B312 /* Tab2Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab2Coordinator.swift; sourceTree = "<group>"; };
-		EAF2F53F2745CBB50023B312 /* Tab3Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab3Coordinator.swift; sourceTree = "<group>"; };
-		EAF2F5412745CBC00023B312 /* Tab4Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab4Coordinator.swift; sourceTree = "<group>"; };
 		EAF2F5432745CDB20023B312 /* Storyboard+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Storyboard+Ext.swift"; sourceTree = "<group>"; };
 		EAF2F5452745CDCD0023B312 /* AppStoryboards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoryboards.swift; sourceTree = "<group>"; };
 		EAF2F54D2745D1B20023B312 /* FirstPassedDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPassedDataViewController.swift; sourceTree = "<group>"; };
 		EAF2F54F2745D1C30023B312 /* SecondPassedDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPassedDataViewController.swift; sourceTree = "<group>"; };
-		EAF2F5512745D1D80023B312 /* ThirdPassedDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdPassedDataViewController.swift; sourceTree = "<group>"; };
-		EAF2F5532745D1F30023B312 /* FourthPassedDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthPassedDataViewController.swift; sourceTree = "<group>"; };
 		EAF2F5552745D2A20023B312 /* Passed.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Passed.storyboard; sourceTree = "<group>"; };
 		EAF2F5572745DD600023B312 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		EAF2F55B274669B20023B312 /* FirstViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewModel.swift; sourceTree = "<group>"; };
+		EAF2F55D274669EC0023B312 /* SecondViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewModel.swift; sourceTree = "<group>"; };
 		F0598BDC48EEF9FCE2AF0055 /* Pods_Cordinator_Pattern_Sample_Cordinator_Pattern_SampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cordinator_Pattern_Sample_Cordinator_Pattern_SampleUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA6DAD2C3994616BEB4A587 /* Pods_Cordinator_Pattern_Sample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cordinator_Pattern_Sample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -232,8 +224,6 @@
 			children = (
 				EAF2F5492745D1560023B312 /* FirstTab */,
 				EAF2F54A2745D1600023B312 /* SecondTab */,
-				EAF2F54B2745D1670023B312 /* ThirdTab */,
-				EAF2F54C2745D16D0023B312 /* FourthTab */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -252,8 +242,6 @@
 				EAF2F5392745CB840023B312 /* TabBarCoordinator.swift */,
 				EAF2F53B2745CB9D0023B312 /* Tab1Coordinator.swift */,
 				EAF2F53D2745CBA90023B312 /* Tab2Coordinator.swift */,
-				EAF2F53F2745CBB50023B312 /* Tab3Coordinator.swift */,
-				EAF2F5412745CBC00023B312 /* Tab4Coordinator.swift */,
 			);
 			path = TabBarCoordinators;
 			sourceTree = "<group>";
@@ -270,7 +258,7 @@
 		EAF2F5492745D1560023B312 /* FirstTab */ = {
 			isa = PBXGroup;
 			children = (
-				EAF2F5002745CA300023B312 /* FirstViewController.swift */,
+				EAF2F56127466B080023B312 /* MainView */,
 				EAF2F54D2745D1B20023B312 /* FirstPassedDataViewController.swift */,
 			);
 			path = FirstTab;
@@ -279,28 +267,60 @@
 		EAF2F54A2745D1600023B312 /* SecondTab */ = {
 			isa = PBXGroup;
 			children = (
-				EAF2F5332745CB410023B312 /* SecondViewController.swift */,
+				EAF2F56227466B100023B312 /* MainView */,
 				EAF2F54F2745D1C30023B312 /* SecondPassedDataViewController.swift */,
 			);
 			path = SecondTab;
 			sourceTree = "<group>";
 		};
-		EAF2F54B2745D1670023B312 /* ThirdTab */ = {
+		EAF2F5592746691C0023B312 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				EAF2F5352745CB4A0023B312 /* ThirdViewController.swift */,
-				EAF2F5512745D1D80023B312 /* ThirdPassedDataViewController.swift */,
+				EAF2F5002745CA300023B312 /* FirstViewController.swift */,
 			);
-			path = ThirdTab;
+			path = ViewController;
 			sourceTree = "<group>";
 		};
-		EAF2F54C2745D16D0023B312 /* FourthTab */ = {
+		EAF2F55A2746692B0023B312 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				EAF2F5372745CB550023B312 /* FourthViewController.swift */,
-				EAF2F5532745D1F30023B312 /* FourthPassedDataViewController.swift */,
+				EAF2F55B274669B20023B312 /* FirstViewModel.swift */,
 			);
-			path = FourthTab;
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		EAF2F55F27466ADB0023B312 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EAF2F5332745CB410023B312 /* SecondViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		EAF2F56027466AE70023B312 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				EAF2F55D274669EC0023B312 /* SecondViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		EAF2F56127466B080023B312 /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				EAF2F55A2746692B0023B312 /* ViewModel */,
+				EAF2F5592746691C0023B312 /* ViewController */,
+			);
+			path = MainView;
+			sourceTree = "<group>";
+		};
+		EAF2F56227466B100023B312 /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				EAF2F56027466AE70023B312 /* ViewModel */,
+				EAF2F55F27466ADB0023B312 /* ViewController */,
+			);
+			path = MainView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -543,19 +563,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAF2F55E274669EC0023B312 /* SecondViewModel.swift in Sources */,
 				EAF2F5342745CB410023B312 /* SecondViewController.swift in Sources */,
-				EAF2F5402745CBB50023B312 /* Tab3Coordinator.swift in Sources */,
-				EAF2F5382745CB550023B312 /* FourthViewController.swift in Sources */,
-				EAF2F5422745CBC00023B312 /* Tab4Coordinator.swift in Sources */,
 				EAF2F5502745D1C30023B312 /* SecondPassedDataViewController.swift in Sources */,
 				EAF2F53C2745CB9D0023B312 /* Tab1Coordinator.swift in Sources */,
 				EAF2F5582745DD600023B312 /* AppCoordinator.swift in Sources */,
 				EAF2F53A2745CB840023B312 /* TabBarCoordinator.swift in Sources */,
 				EAF2F5462745CDCD0023B312 /* AppStoryboards.swift in Sources */,
-				EAF2F5522745D1D80023B312 /* ThirdPassedDataViewController.swift in Sources */,
-				EAF2F5542745D1F30023B312 /* FourthPassedDataViewController.swift in Sources */,
+				EAF2F55C274669B20023B312 /* FirstViewModel.swift in Sources */,
 				EAF2F53E2745CBA90023B312 /* Tab2Coordinator.swift in Sources */,
-				EAF2F5362745CB4A0023B312 /* ThirdViewController.swift in Sources */,
 				EAF2F54E2745D1B20023B312 /* FirstPassedDataViewController.swift in Sources */,
 				EAF2F5442745CDB20023B312 /* Storyboard+Ext.swift in Sources */,
 				EAF2F5012745CA300023B312 /* FirstViewController.swift in Sources */,

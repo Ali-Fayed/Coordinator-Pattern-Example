@@ -8,36 +8,6 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Third Passed Data View Controller-->
-        <scene sceneID="s0d-6b-0kx">
-            <objects>
-                <viewController storyboardIdentifier="ThirdPassedDataViewController" id="Y6W-OH-hqX" customClass="ThirdPassedDataViewController" customModule="Cordinator_Pattern_Sample" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EH8-hO-4mV">
-                                <rect key="frame" x="160" y="424" width="94" height="48"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="EH8-hO-4mV" firstAttribute="centerY" secondItem="5EZ-qb-Rvc" secondAttribute="centerY" id="JWw-2G-7Le"/>
-                            <constraint firstItem="EH8-hO-4mV" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="s5D-7t-v5Z"/>
-                        </constraints>
-                    </view>
-                    <connections>
-                        <outlet property="label" destination="EH8-hO-4mV" id="j6t-hA-0FO"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="20" y="66"/>
-        </scene>
         <!--First Passed Data View Controller-->
         <scene sceneID="Y6p-NY-CBH">
             <objects>
@@ -97,36 +67,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KOc-pc-L59" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-667" y="76"/>
-        </scene>
-        <!--Fourth Passed Data View Controller-->
-        <scene sceneID="r6X-Sf-Ajd">
-            <objects>
-                <viewController storyboardIdentifier="FourthPassedDataViewController" id="Cod-FO-XxX" customClass="FourthPassedDataViewController" customModule="Cordinator_Pattern_Sample" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="tlD-53-8Fk">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e1I-BB-44M">
-                                <rect key="frame" x="160" y="424" width="94" height="48"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="2m1-hX-Sbs"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="e1I-BB-44M" firstAttribute="centerX" secondItem="tlD-53-8Fk" secondAttribute="centerX" id="kYQ-Vl-hde"/>
-                            <constraint firstItem="e1I-BB-44M" firstAttribute="centerY" secondItem="tlD-53-8Fk" secondAttribute="centerY" id="yoI-Yi-oSH"/>
-                        </constraints>
-                    </view>
-                    <connections>
-                        <outlet property="label" destination="e1I-BB-44M" id="0vz-bI-GRj"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="InF-D1-alH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="775" y="66"/>
         </scene>
     </scenes>
     <resources>
